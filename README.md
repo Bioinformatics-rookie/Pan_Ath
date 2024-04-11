@@ -5,4 +5,4 @@ Code for Article "A pan-genome of 69 Arabidopsis thaliana accessions reveals a c
 
 
 
-https://www.researchsquare.com/article/rs-2976609/v1
+https://www.nature.com/articles/s41588-024-01715-9
